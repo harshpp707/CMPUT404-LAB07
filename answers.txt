@@ -1,0 +1,25 @@
+0. https://github.com/harshpp707/CMPUT404-LAB07
+
+1. Main difference between Flask and Django is that Flask supports 
+   APIs and Django does not also Flask is faster than django due to 
+   few abstraction layers. Also Django offers dynamic webpages whereas 
+   Flask doesn't.
+
+2. REST stands for Representational State Transfer. It means something
+   desgined according to REST principles.
+
+3. CRUD stands for Create Read Update Delete. C = POST Method
+   R = GET Method, U = PUT Method, D = DELETE Method
+
+4. 1xx = server recieved request and is continuing the process.
+   2xx = Success,clients action was recieved, understood and accepted. 
+   3xx = server requires additional action to be taken to complete the request.
+   4xx = bad syntax or cannot be fulfilled.
+   5xx = server failed to fulfil valid request.
+
+5. XSS attack is by injecting some scripts which are not good into good website.
+   If site trusts everything what it receives then the site is vulneratble to the
+   XSS attack.
+
+6. CORS stands for CROSS Origin Resource Sharing. When making cross domain requests
+   CORS is needed.
